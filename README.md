@@ -4,7 +4,7 @@ Started learning python few days back and now i  build a Tic-Tac-Toe Game game b
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/chamlykarthik/tic-tac-toe.git
 
 **Open the project folder:
 
